@@ -1,5 +1,4 @@
 
-
 Potato, Вес: 50.5, Категория: Vegetables
 Spaghetti, Вес: 3.4, Категория: Groceries
 Potato, Вес: 5.5, Категория: Vegetables
